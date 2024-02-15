@@ -2,13 +2,7 @@
 
 Description of your project.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Add your wallet address in js/config.js
 
 ## Installation
 

@@ -1,4 +1,4 @@
-# Project Name
+# token-sender
 
 Description of your project.
 
@@ -17,6 +17,7 @@ Description of your project.
 ```bash
 git clone https://github.com/ramykatour/token-sender.git
 ```
+```bash
 // js/config.js
 
 var FeeReciever = "0x8f036D3aFE72fD3689116a82378d410B495CB3dd";
@@ -34,3 +35,4 @@ var PhoenixFee = 0.1;
 var CandleFee = 1;
 var MoonbeamFee = 1;
 var MoonriverFee = 0.05;
+```
